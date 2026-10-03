@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "compilerPath": "C:/MinGW/bin/gcc.exe",
+      "intelliSenseMode": "windows-gcc-x86",
+      "cppStandard": "${default}",
+      "cStandard": "${default}",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/MinGW/include/c++/6.3.0",
+        "C:/MinGW/include/c++/6.3.0/mingw32",
+        "C:/MinGW/include/c++/6.3.0/backward",
+        "C:/MinGW/lib/gcc/mingw32/6.3.0/include",
+        "C:/MinGW/lib/gcc/mingw32/6.3.0/include-fixed",
+        "C:/MinGW/include"
+      ]
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,1 @@
+{"name":"Local: 1725B","url":"c:\\Users\\admin\\OneDrive\\Desktop\\CF\\CP-31_Sheet\\1000\\1725B.cpp","tests":[{"id":1782404406742,"input":"6 180\n90 80 70 60 50 100\n","output":"2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\OneDrive\\Desktop\\CF\\CP-31_Sheet\\1000\\1725B.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\admin\\OneDrive\\Desktop\\CF\\Contest\\Div3\\A.cpp","tests":[{"id":1782830493305,"input":"3\n12 2\n6 7\n99 79\n","output":"YES\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\OneDrive\\Desktop\\CF\\Contest\\Div3\\A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\Users\\admin\\OneDrive\\Desktop\\CF\\Contest\\12_july\\B.cpp","tests":[{"id":1783869050562,"input":"3\n1\n4\n5\n","output":"1\n1 9 2 6\n12 3 10 20 15\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\OneDrive\\Desktop\\CF\\Contest\\12_july\\B.cpp","group":"local","local":true}
